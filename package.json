@@ -17,7 +17,7 @@
     "figlet": "^1.2.0",
     "inquirer": "^6.0.0",
     "mssql": "^5.1.0",
-    "yargs": "^13.2.2"
+    "yargs": "^14.0.0"
   },
   "bin": {
     "mssql-cli": "dist/index.js"
