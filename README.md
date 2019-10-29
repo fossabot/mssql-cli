@@ -1,4 +1,6 @@
 # Execute your MSSQL queries directly from your Terminal
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgruselhaus%2Fmssql-cli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgruselhaus%2Fmssql-cli?ref=badge_shield)
+
 
 ## Installation
 
@@ -23,3 +25,7 @@ Feel free to submit issues and enhancement requests.
 5. Submit a **Pull request** so that we can review your changes
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgruselhaus%2Fmssql-cli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgruselhaus%2Fmssql-cli?ref=badge_large)
